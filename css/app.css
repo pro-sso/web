@@ -1,0 +1,51 @@
+.fondo{
+    background: #2e2e2e;
+}
+
+.fondo1{
+    background: #006064;
+}
+
+.fondo2{
+    background: #00838f;
+}
+
+.cabecera{
+    background: #01064d;
+}
+
+.text{
+    color: #fff;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.text2{
+    color: #fff;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+}
+
+.titulo{
+    color: rgb(229, 255, 0);
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+img{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.center{
+    display:block;
+    margin:auto;
+}
+
+a{
+    color: #fff;
+}
